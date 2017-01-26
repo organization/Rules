@@ -13,6 +13,7 @@ Organic은 마인크래프트 코리아(이하 MK)의 공식 개발팀입니다.
  - 이프팀 전원
  - ADRINER(@adrinerDP)
  - Nesffer(@Nesffer)
+ - 마루(@wsj7178)
 
 ## 채팅방 규칙
 1. 상대방에 대한 근거없는 비방을 금지합니다.
