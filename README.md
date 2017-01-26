@@ -45,7 +45,7 @@ I.e
 
 ### 2. MCPE 컨텐츠 생산 (MK내 M등급 유지 가능)
 1달에 1번 이상 일정 퀄리티 이상의 MCPE 컨텐츠 제작 혹은 관련 강좌를 작성하여 제출합니다.
-자세한 공지는 [이곳](http://cafe.naver.com/minecraftpe/2576832)에서 확인해주세요.
+자세한 공지는 [이곳](http://cafe.naver.com/minecraftpe/2576832)과 [이곳](http://cafe.naver.com/minecraftpe/2588896)에서 확인해주세요.
 
 ## 관리
 MK 공식팀 if-Team 이 공동 관리합니다. <br>
