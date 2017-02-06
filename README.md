@@ -56,5 +56,5 @@ MK 공식팀 if-Team 이 공동 관리합니다. <br>
 
 ---
 ## History
-- 2017.1.26 11:30 First writing by MuRye
-- 2017.2.7 12:03 Add Example link by MuRye
+- 2017.01.26 11:30 First writing by MuRye
+- 2017.02.07 12:03 Add Example link by MuRye
