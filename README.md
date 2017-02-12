@@ -9,15 +9,8 @@ Organic은 마인크래프트 코리아(이하 MK)의 공식 개발팀입니다.
 [MK 오가닉 게시판 공지](http://cafe.naver.com/minecraftpe/2576820)에서 하실 수 있습니다.
 프로그래밍에 관한 조언을 해주는 '멘토' 신청의 경우 카페 글에 신청하는 대신 [텔레그램(@mocha127)](https://t.me/mocha127)으로 해주세요.
 
-현재 멘토 목록 :
- - 이프팀 전원
- - ADRINER(@adrinerDP)
- - Nesffer(@Nesffer)
- - 마루(@wsj7178)
- - 찌개라면(@roharon)
- - 징딩(@PocketMineMP)
- - Redstone(@ljuwon)
- 
+[팀원/멘토 목록 조회](/LIST.md)
+
 ## 채팅방 규칙
 1. 상대방에 대한 근거없는 비방을 금지합니다.
 2. 비속어 사용을 자제해주세요.
