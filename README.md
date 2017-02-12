@@ -53,4 +53,5 @@ MK 공식팀 if-Team 이 공동 관리합니다. <br>
 ## History
 - 2017.01.26 23:30 First writing by MuRye
 - 2017.02.07 00:03 Add Example link by MuRye
-- 2017.02.09 14:03 New chatting room rule
+- 2017.02.09 14:03 New chatting room rule by MuRye
+- 2017.02.12 23.52 Add LIST.md and member.json by MuRye
