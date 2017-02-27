@@ -19,7 +19,7 @@
 |@jangmur|jangmur41@gmail.com|0|
 |@shayo|Troll@naver.com|1|
 |@TriangleFunction|dpwns99@gmail.com|0|
-|@CYANPEN|gosemdochi16@naver.com|0|
+|@CYANPEN|gosemdochi16@naver.com|1|
 |@psh3253|psh3253@naver.com|1|
 |@majeam|majaem1234@gmail.com|1|
 |@kintiru|kintiru@gmail.com|0|
