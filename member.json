@@ -11,7 +11,7 @@
         ],
         "team":"Member"
     },
-    "@CYANPEN":{
+    "@cyanpen":{
         "email":"gosemdochi16@naver.com",
         "warned":[
             {
@@ -20,97 +20,116 @@
         ],
         "team":"Member"
     },
-    "@Dasom1012":{
+    "@dasom1012":{
         "email":"wndus9075@naver.com",
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
     },
-    "@ExceptionEd":{
+    "@exceptioned":{
         "email":"scmdraft1.0@gmail.com",
         "warned":[],
         "team":"Member"
     },
-    "@Hysen123":{
+    "@hysen123":{
         "email":"yp111310@naver.com",
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
     },
-    "@IAMMDCH":{
+    "@iammdch":{
         "email":"larva1221@naver.com",
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
     },
-    "@Irene36":{
+    "@irene36":{
         "email":"gloria030114@gmail.com",
         "warned":[],
         "team":"Member"
     },
-    "@Irenebode":{
+    "@irenebode":{
         "email":"kth020315@naver.com",
         "warned":[],
         "team":"Member"
     },
-    "@JellyBrick":{
+    "@jellybrick":{
         "email":"shlee150333@gmail.com",
         "warned":[],
         "team":"Member"
     },
-    "@KIMS1018":{
+    "@kims1018":{
         "email":"rlawogns1018@naver.com",
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
     },
-    "@Luckymelon7":{
-        "email":"Ryan07231@naver.com",
+    "@luckymelon7":{
+        "email":"ryan07231@naver.com",
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
     },
-    "@Maemong":{
+    "@maemong":{
         "email":"xkxksk0123@gmail.com",
         "warned":[],
         "team":"Member"
     },
-    "@Nesffer":{
+    "@nesffer":{
         "email":"",
         "warned":[],
         "team":"Mento"
     },
-    "@PocketMineMP":{
+    "@pocketminemp":{
         "email":"",
         "warned":[],
         "team":"Mento"
     },
-    "@TriangleFunction":{
+    "@trianglefunction":{
         "email":"dpwns99@gmail.com",
         "warned":[],
         "team":"Member"
     },
     "@a573r15m":{
         "email":"minseok.chu@outlook.kr",
-        "warned":[],
+        "warned":[
+            {
+                "date":"2017-02-27T00:00:00.000Z"
+            }
+        ],
         "team":"Member"
     },
-    "@adrinerDP":{
+    "@adrinerdp":{
         "email":"",
         "warned":[],
         "team":"Mento"
@@ -129,6 +148,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -138,6 +160,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -147,6 +172,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -156,6 +184,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -165,13 +196,20 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
     },
     "@heejae5599":{
         "email":"imaheejae@naver.com",
-        "warned":[],
+        "warned":[
+            {
+                "date":"2017-02-27T00:00:00.000Z"
+            }
+        ],
         "team":"Member"
     },
     "@jangmur":{
@@ -184,6 +222,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -207,6 +248,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -225,6 +269,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -239,6 +286,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -263,7 +313,7 @@
         "team":"Member"
     },
     "@shayo":{
-        "email":"Troll@naver.com",
+        "email":"phj8189@gmail.com",
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
@@ -285,6 +335,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -299,13 +352,20 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
     },
     "@systemctl":{
         "email":"hyeokju1127@naver.com",
-        "warned":[],
+        "warned":[
+            {
+                "date":"2017-02-27T00:00:00.000Z"
+            }
+        ],
         "team":"Member"
     },
     "@teamgtp":{
@@ -313,6 +373,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -322,6 +385,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
@@ -331,6 +397,9 @@
         "warned":[
             {
                 "date":"2017-02-13T00:00:00.000Z"
+            },
+            {
+                "date":"2017-02-27T00:00:00.000Z"
             }
         ],
         "team":"Member"
