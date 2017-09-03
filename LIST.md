@@ -7,7 +7,6 @@
 |@Irene36|gloria030114@gmail.com|0|
 |@david0308|david0308@naver.com|1|
 |@Luckymelon7|Ryan07231@naver.com|1|
-|@ExceptionEd|scmdraft1.0@gmail.com|0|
 |@Maemong|xkxksk0123@gmail.com|0|
 |@Hysen123|yp111310@naver.com|1|
 |@chojh1102|jhcho1102@naver.com|1|
